@@ -69,7 +69,7 @@ public class City_list_frag extends Fragment {
         progressDialog=new ProgressDialog(getContext(),
                 R.style.AppTheme_Dark_Dialog);
         progressDialog.setIndeterminate(true);
-        progressDialog.setMessage("Loading the doctors list, please wait...");
+        progressDialog.setMessage("Loading the cities list, please wait...");
 
 
         cargar_ciudades();
