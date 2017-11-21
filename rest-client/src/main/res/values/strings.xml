@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Rest-client</string>
+    <string name="uri_login" translatable="false">login</string>
+    <string name="uri_register" translatable="false">user/create</string>
+    <string name="uri_user_info" translatable="false">user?id=%1$s&amp;token=%2$s</string>
+    <string name="uri_doctors" translatable="false">doctors</string>
+    <string name="uri_implants" translatable="false">patient/%1$d/implants</string>
+    <string name="uri_Reg_implants" translatable="false">register/implants</string>
+    <string name="uri_Reset_pass" translatable="false">user/reset/%1$s/%2$d</string>
+    <string name="uri_cities" translatable="false">find?lat=%1$s&amp;lon=%2$s&amp;cnt=10&amp;appid=2156e2dd5b92590ab69c0ae1b2d24586</string>
+
+    <!--    <string name="uri_login">login.php?username=%1$s&amp;password=%2$s</string>
+        <string name="uri_user_info">profile.php?id=%1$s&amp;token=%2$s</string>-->
+</resources>
